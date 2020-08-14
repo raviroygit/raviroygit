@@ -100,7 +100,7 @@ Hey we are uploading a post soon!
 [twitter]: https://twitter.com/codeSTACKr-->
 [youtube]: https://www.youtube.com/feed/my_videos
 [instagram]: https://www.instagram.com/handsome_boy_ravi_roy/
-[linkedin]: https://linkedin.com/in/ravikumarroy
+[linkedin]: https://www.linkedin.com/in/ravikumarroy
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
