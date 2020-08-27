@@ -1,12 +1,28 @@
 ### Hi there, I'm Ravi Roy (Handsome-Boy)👋
+<br/>
+<br/>
+   I am a Software engineer with experience in building intelligent & scalable applications using Flutter | Reactjs.
+   I love mobile apps, distributed systems, open source projects and the challenges associated with them.
+   I like writing,sharing my knowledge with other engineers.
 
-## I'm a Coder, Developer, and Teacher!
+   <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently open to learning everything 🤣
+- 👯 I’m looking to collaborate on open source Flutter project
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Coding, Listen Music and Dacing
+
+<br/>
+<br/>
+
+### Recent Projects
+
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=portfolio)](https://github.com/raviroygit/portfolio) 
+<br>
+[![Simple-Quiz-App-using-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=Simple-Quiz-App-using-Flutter)](https://github.com/raviroygit/Simple-Quiz-App-using-Flutter)
+
+<br>
 
 ### Connect with me:
 
@@ -17,6 +33,7 @@
 [<img align="left" alt="raviroygit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br/>
 
 ### Languages and Tools:
 
@@ -42,11 +59,11 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!--### 📺 Latest YouTube Videos-->
 
 <!-- YOUTUBE:START -->
 
-[PORTFOLIO: Build a Portfolio 
+<!--[PORTFOLIO: Build a Portfolio 
 using React.js ! ](https://www.youtube.com/watch?v=mfSyX40dxPg)
 <!-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
@@ -54,12 +71,12 @@ using React.js ! ](https://www.youtube.com/watch?v=mfSyX40dxPg)
 - [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)-->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/feed/my_videos)
+<!--➡️ [more videos...](https://www.youtube.com/feed/my_videos)-->
 
 ---
 
 ### 📕 Latest Blog Posts
-
+  <br/>
 <!-- BLOG-POST-LIST:START -->
 Hey we are uploading a post soon!
 <!--- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -69,11 +86,11 @@ Hey we are uploading a post soon!
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)-->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...]<!--(https://codestackr.com)-->
+<!--➡️ [more blog posts...]<!--(https://codestackr.com)-->
 
----
+<br/>
 
-<details>
+<!--!--<details>
   <summary>:zap: Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
@@ -88,13 +105,18 @@ Hey we are uploading a post soon!
 
 </details>
 
-<details>
+<!--<details>
   <summary>:zap: Github Stats</summary>
 
   
   <img align="left" alt="RaviRoy's Github Stats" src="https://github-readme-stats.raviroygit.vercel.app/api?username=raviroygit&show_icons=true&hide_border=true" />
 
-</details>
+</details>-->
+<br/>
+<br/>
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/raviroygit/count.svg" alt ="Loading">
 
 <!--[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr-->
