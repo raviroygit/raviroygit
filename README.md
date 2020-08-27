@@ -1,15 +1,16 @@
 ### Hi there, I'm Ravi Roy (Handsome-Boy)👋
 <br/>
 
-   I am a Software engineer with experience in building intelligent & scalable applications using Flutter | Reactjs.
-   I love mobile apps, distributed systems, open source projects and the challenges associated with them.
+   I am a Fresher and lookig for exciting Jobs & Internship with Skills Java, Ms-SQL, HTML, CSS, Flutter | Reactjs.
+   I love mobile apps, Website &  open source projects and the challenges associated with them.
    I like writing,sharing my knowledge with other engineers.
 
    <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
+  - 👯 I’m looking for exciting Jobs & Internship
 - 🔭 I’m currently working on Flutter & Reactjs projects
 - 🌱 I’m currently open to learn everything 🤣
-- 👯 I’m looking to collaborate on open source Flutter project
+
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Coding, Listen Music and Dacing
 
