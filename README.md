@@ -118,8 +118,8 @@ Hey we are uploading a post soon!
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/raviroygit/count.svg" alt ="Loading">
 
-<!--[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr-->
+<!--[website]: https://codeSTACKr.com-->
+[twitter]: https://twitter.com/RaviRoyHandsom1?s=09
 [youtube]: https://www.youtube.com/feed/my_videos
 [instagram]: https://www.instagram.com/handsome_boy_ravi_roy/
 [linkedin]: https://www.linkedin.com/in/ravikumarroy
