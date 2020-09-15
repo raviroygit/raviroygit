@@ -121,7 +121,7 @@ Hey we are uploading a post soon!
 
 <!--[website]: https://codeSTACKr.com-->
 [twitter]: https://twitter.com/RaviRoyHandsom1?s=09
-[youtube]: https://www.youtube.com/feed/my_videos
+[youtube]: https://www.youtube.com/watch?v=mfSyX40dxPg
 [instagram]: https://www.instagram.com/handsome_boy_ravi_roy/
 [linkedin]: https://www.linkedin.com/in/ravikumarroy
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
