@@ -22,9 +22,7 @@
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=portfolio)](https://github.com/raviroygit/portfolio) 
 <br>
 [![Simple-Quiz-App-using-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=Simple-Quiz-App-using-Flutter)](https://github.com/raviroygit/Simple-Quiz-App-using-Flutter)
-
 <br>
-
 [![Java Programming Questions and Solutions](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=Java-programs)](https://github.com/raviroygit/Java-Programs)
 <br>
 
