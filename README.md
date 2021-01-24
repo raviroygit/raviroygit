@@ -20,7 +20,7 @@
 
 ### Recent Projects
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=portfolio)](https://github.com/raviroygit/portfolio) 
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=raviroy)](https://github.com/raviroygit/raviroy) 
 <br>
 [![Simple-Quiz-App-using-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=raviroygit&repo=Simple-Quiz-App-using-Flutter)](https://github.com/raviroygit/Simple-Quiz-App-using-Flutter)
 <br>
