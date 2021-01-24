@@ -121,12 +121,12 @@ Hey we are uploading a post soon!
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/raviroygit/count.svg" alt ="Loading">
 
-<!--[website]: https://codeSTACKr.com-->
+<!--[website]: https://raviroy.tech->
 [twitter]: https://twitter.com/RaviRoyHandsom1?s=09
 [youtube]: https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be
 [instagram]: https://www.instagram.com/handsome_boy_ravi_roy/
 [linkedin]: https://www.linkedin.com/in/ravikumarroy
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]:https://raviroy.tech
+[jsplaylist]: https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be
+[cssplaylist]:https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be
+[reactplaylist]:https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be
