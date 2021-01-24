@@ -99,10 +99,10 @@ Hey we are uploading a post soon!
   <!--START_SECTION:activity-->
 
   <!--1. ❗️ Opened issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-  2. 🎉 Merged PR [#3](https://github.com/raviroygit/raviroygit pull 1) in [raviroygit/tech](https://github.com/raviroygit/raviroygit)
-  3. 🎉 Merged PR [#1](https://github.com/raviroygit/raviroygit) in [raviroygit/tech](https://github.com/raviroygit/raviroygit)
-  4. 💪 Opened PR [#1](https://github.com/raviroygit/raviroygit) in [raviroygit/tech](https://github.com/raviroygit/raviroygit)
-  5. 🎉 Merged PR [#2](https://github.com/raviroygit/raviroygit) in [raviroygit/tech](https://github.com/raviroygit/raviroygit)-->
+  2. 🎉 Merged PR [#3](https://github.com//codeSTACKr/codeSTACKr/pull/3) in [codeSTACKr/codeSTACKr](https://github.com//codeSTACKr/codeSTACKr)
+  3. 🎉 Merged PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
+  4. 💪 Opened PR [#1](https://github.com//codeSTACKr/battleships/pull/1) in [codeSTACKr/battleships](https://github.com//codeSTACKr/battleships)
+  5. 🎉 Merged PR [#2](https://github.com//kubowania/battleships/pull/2) in [kubowania/battleships](https://github.com//kubowania/battleships)-->
   
   <!--END_SECTION:activity-->
 
@@ -123,10 +123,8 @@ Hey we are uploading a post soon!
 
 <!--[website]: https://raviroy.tech->
 [twitter]: https://twitter.com/RaviRoyHandsom1?s=09
-<!--[youtube]: https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be->
-<!--[instagram]: https://www.instagram.com/handsome_boy_ravi_roy/->
-<!--[linkedin]: https://www.linkedin.com/in/ravikumarroy->
-<!--[webdevplaylist]:https://raviroy.tech/->
-<!--[jsplaylist]: https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be/->
-<!--[cssplaylist]:https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be/->
-<!--[reactplaylist]:https://www.youtube.com/watch?v=mfSyX40dxPg&feature=youtu.be/->
+[youtube]:[youtube]: https://www.youtube.com/watch?v=mfSyX40dxPg
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
