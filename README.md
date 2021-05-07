@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on Flutter & Reactjs projects
 - 🌱 I’m currently open to learn everything 🤣
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Coding, Listen Music and Dacing
 
 <br/>
