@@ -1,7 +1,7 @@
 ### Hi there, I'm Ravi Kumar (Ravi🤫Roy)👋
 ### See my Portfolio and all open-source projects
-### 👉 https://www.raviroy.tech 
-### also visit at 👉 https://codelength.net
+### 👉 https://raviroy.codelength.net
+### also visit at 👉 https://www.codelength.net
 ### Open-source project 👉 https://bootstrap4.codelength.net
 ### Meen stack authentication system for production level 
 ### 👉 http://ec2-13-127-224-93.ap-south-1.compute.amazonaws.com/
