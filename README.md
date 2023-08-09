@@ -50,7 +50,7 @@
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
 • 📫 Reach me out <a href="https://www.codelength.net/"><b>@Ravi Roy</b></a><br/>
-• In Reach me out <a href="https://www.linkedin.com/in/erraviroy/"><b>@Ravi Roy</b></a><br/>
+• In Reach me out <a href="https://www.linkedin.com/in/erraviroy/"><b>@LinkedIn</b></a><br/>
 </span>
 
 <br />
