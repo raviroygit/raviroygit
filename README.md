@@ -92,9 +92,9 @@
 <a href="https://m.facebook.com/ravi93448"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
-<!--<a  href="https://www.linkedin.com/company/hi-coders/">
+<a  href="www.linkedin.com/in/erraviroy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>-->
+</a>
 <!-- <a href="https://codepen.io/raviroygit"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a> -->
