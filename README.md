@@ -186,7 +186,7 @@ Multi-tenant e-commerce SaaS platform with super admin console, org admin with d
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raviroygit&theme=onestar&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=raviroygit&theme=onedark&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
