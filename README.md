@@ -81,10 +81,10 @@ AI-powered healthcare assistant using Retrieval-Augmented Generation for accurat
 </td>
 <td width="50%" valign="top">
 
-#### [Falcon App](https://github.com/raviroygit/falconApp)
-React Native app with AWS Cognito authentication and barcode/product scanner integration.
+#### [Vendora](https://vendora-teal-five.vercel.app)
+Multi-tenant e-commerce SaaS platform with super admin console, org admin with drag-and-drop page builder, and dynamic storefronts per organization.
 
-`React Native` `TypeScript` `AWS Cognito` `Camera` `Barcode`
+`TypeScript` `Next.js` `Fastify` `MongoDB` `Redis` `Cloudinary`
 
 </td>
 </tr>
