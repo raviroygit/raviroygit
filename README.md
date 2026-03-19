@@ -73,18 +73,54 @@ Enterprise authentication-as-a-service platform with passwordless OTP/magic-link
 <tr>
 <td width="50%" valign="top">
 
-#### [Healthcare RAG](https://healthcare-rag-sable.vercel.app)
-AI-powered healthcare assistant using Retrieval-Augmented Generation for accurate medical information retrieval.
-
-`TypeScript` `RAG` `LLM` `Vector Search` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
 #### [Vendora](https://vendora-teal-five.vercel.app)
 Multi-tenant e-commerce SaaS platform with super admin console, org admin with drag-and-drop page builder, and dynamic storefronts per organization.
 
 `TypeScript` `Next.js` `Fastify` `MongoDB` `Redis` `Cloudinary`
+
+</td>
+<td width="50%" valign="top">
+
+#### [PlayWin](https://playwin-admin.vercel.app)
+Online gaming platform with wallet system, real-time bidding, commission tracking, withdrawals, and a full admin dashboard.
+
+`Express 5` `TypeScript` `MongoDB` `Zod` `React` `Swagger`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Apollo BKTA
+AI-powered nurse training platform with ElevenLabs voice agents, conversation transcript analysis, scoring, and leadership dashboards.
+
+`Next.js` `Prisma` `AWS S3` `ElevenLabs` `OpenAI` `OTP Auth`
+
+</td>
+<td width="50%" valign="top">
+
+#### Ride App
+Uber-style ride-hailing mobile app with real-time location tracking, ride planning, user verification, and push notifications.
+
+`Expo` `TypeScript` `Location Services` `Notifications`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### LMS
+Full-stack learning management system with course management, order processing, payment integration, email notifications, and Redis caching.
+
+`Next.js` `Express` `TypeScript` `MongoDB` `Redis` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+#### Ludo
+Classic Ludo board game with smooth animations, sound effects, and persistent game state.
+
+`React Native` `Expo` `Redux` `Animations`
 
 </td>
 </tr>
