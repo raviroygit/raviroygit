@@ -30,7 +30,7 @@
 
 ### About
 
-Founder & CTO at **NxtGen AI Dev** — building production AI infrastructure that powers real businesses. I architect multi-service platforms handling AI orchestration, real-time voice streaming, payment systems, and multi-tenant B2B APIs. From React Native mobile apps to Kubernetes-deployed backends, I ship full-stack products end-to-end.
+Building production AI infrastructure that powers real businesses. I architect multi-service platforms handling AI orchestration, real-time voice streaming, payment systems, and multi-tenant B2B APIs. From React Native mobile apps to cloud-deployed backends, I ship full-stack products end-to-end.
 
 ---
 
