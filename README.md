@@ -63,7 +63,7 @@ Smart expense sharing and khata book management app for customers and businesses
 </td>
 <td width="50%" valign="top">
 
-#### NxtGen Auth System
+#### [NxtGen Auth System](https://nxtgenaidev-auth-console.vercel.app)
 Enterprise authentication-as-a-service platform with passwordless OTP/magic-link, RBAC, session management, audit logs, and admin console.
 
 `TypeScript` `Express` `MongoDB` `EJS` `JWT` `RBAC`
