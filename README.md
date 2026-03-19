@@ -186,7 +186,7 @@ React Native app with AWS Cognito authentication and barcode/product scanner int
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raviroygit&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raviroygit&theme=onestar&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
