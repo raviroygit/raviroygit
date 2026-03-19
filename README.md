@@ -55,8 +55,8 @@ Multi-service AI orchestration platform. 20+ AI provider integrations, credit me
 <tr>
 <td width="50%" valign="top">
 
-#### [Evenly](https://evenly-omega.vercel.app)
-Smart expense sharing app with group management, real-time balance tracking, and automated settlement calculations.
+#### [EvenelySplit](https://evenly-omega.vercel.app)
+Smart expense sharing and khata book management app for customers and businesses. Group expenses, real-time balance tracking, and automated settlement calculations.
 
 `TypeScript` `Next.js` `Node.js` `MongoDB` `Auth System`
 
