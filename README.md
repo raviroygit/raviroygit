@@ -237,11 +237,5 @@ Classic Ludo board game with smooth animations, sound effects, and persistent ga
 ---
 
 <p align="center">
-  <a href="https://www.nxtgenaidev.com">
-    <img src="https://img.shields.io/badge/Visit_NxtGen_AI_Dev-6366f1?style=for-the-badge&logoColor=white" alt="NxtGen AI Dev" />
-  </a>
-</p>
-
-<p align="center">
   <sub>Building the future of AI, one commit at a time.</sub>
 </p>
